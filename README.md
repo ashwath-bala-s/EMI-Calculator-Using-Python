@@ -19,6 +19,7 @@ The goal of this project is to create an EMI Calculator that computes the monthl
 The project will use Python to implement these calculations and provide a user-friendly code for managing loan payments.
 
 **Project Description:**
+
 •	Developed an EMI Calculator using Python Language which calculated the EMI amount using principal amount, Rate of Interest and Tenure.
 
 **Skills:** Python
