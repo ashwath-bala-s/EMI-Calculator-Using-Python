@@ -9,8 +9,11 @@ Equated Monthly Installment (EMI) is a widely used payment method that allows bu
 The goal of this project is to create an EMI Calculator that computes the monthly installment for different types of loans based on the principal amount, interest rate, and loan tenure. Specifically, the calculator will:
 
 (i)   Calculate the EMI for a home loan given the principal amount, interest rate, and loan tenure.
+
 (ii)  Determine the maximum loan amount that can be afforded if the interest rate increases and the monthly EMI is capped at a specific amount.
+
 (iii) Compute the total interest paid year-wise and the cumulative interest paid over the loan tenure.
+
 (iv)  Identify the number of months required to repay at least 50% of the principal amount.
 
 The project will use Python to implement these calculations and provide a user-friendly code for managing loan payments.
